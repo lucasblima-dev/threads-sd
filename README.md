@@ -71,4 +71,4 @@ java MinhaThread
 
 ## Vídeos
 
-Os vídeos com a explicação de cada questão estão na pasta `videos/`. Seguindo as orientações da professora, cada integrante ficou responsável por partes das questões.
+O vídeo está disponível via Google drive pelo link: https://drive.google.com/file/d/1TBcP514csGni1REtPhj2u5R3mLEYC195/view?usp=sharing.
